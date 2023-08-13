@@ -20,6 +20,9 @@ const loop = setInterval(() =>{
         mario.style.bottom = `${marioPossition}px`;
 
         mario.src = "./images/game-over.png";
+        clouds.src ="/images/gameover.gif"
+        clouds.style.right = '15%';
+        clouds.style.width = '800px';
         mario.style.width = '75px';
         mario.style.marginLeft = '50px'
 
