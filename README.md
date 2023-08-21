@@ -10,7 +10,7 @@
 <body style="background-color:powderblue;">
 
     
-            <img src="./images/animacaoHome.gif" alt="" s>
+            <img src="./images/animacaoHome.gif" >
             
        
             
